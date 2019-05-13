@@ -1,0 +1,8 @@
+ERROR : Invalid Password. Password should contain numeric characters.
+INFO : Valid Password.
+ERROR : Invalid Password. Password length should be equal to or greater than 6 characters.
+ERROR : Invalid Password. Password should contain uppercase characters.
+ERROR : Invalid Password. Password should contain lowercase characters.
+INFO : Valid Password.
+ERROR : Invalid Password. Password length should be less than or equal to 12 characters.
+ERROR : Invalid Password. Password length should be equal to or greater than 6 characters.
